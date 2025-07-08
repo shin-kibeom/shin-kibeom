@@ -1,9 +1,6 @@
 <!-- 헤더 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,100:0077b6&height=200&text=Kibeom's%20GITHUB&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
-
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyperflow)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shinkibeoms@naver.com)](https://solved.ac/shinkibeoms@naver.com) 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
@@ -29,6 +26,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
+
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=shinkibeom)
 
 ### 🛠 Skills
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="87" height="87" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="87" height="87" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="87" height="87" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="87" height="87" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="87" height="87" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="87" height="87" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="87" height="87" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="87" height="87" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="87" height="87" /></div>
