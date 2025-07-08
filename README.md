@@ -4,21 +4,17 @@
 <img width="1909" height="637" alt="Image" src="https://github.com/user-attachments/assets/f0804a59-562d-4815-a267-6b731cf373f1" />
 
 ## 🧑‍💻 About Me
-
 > “코드는 결국 사람을 위한 것이라고 생각합니다.”  
-> 사용자에게 더 좋은 경험을 주기 위해 고민하고,  
-> 팀과 함께 성장하는 개발자가 되고 싶습니다.  
+> 사용자에게 더 좋은 경험을 주기 위해 고민하고,  팀과 함께 성장하는 개발자가 되고 싶습니다.  
 
 - 백엔드부터 클라우드 인프라까지 관심 있는 개발자입니다.
 - 문제 해결을 즐기고, 주석보다 **읽기 쉬운 코드**를 지향합니다.
 - 협업과 커뮤니케이션을 중요하게 생각합니다.
 
----
 
 
-
-🛠 Tech Stack
-💻 Language
+## 🛠 Tech Stack
+💻 Language 
 <p> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> </p>
 🌐 Web Development
 <p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" /> </p>
