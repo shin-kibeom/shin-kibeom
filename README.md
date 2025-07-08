@@ -1,6 +1,9 @@
 <!-- 헤더 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,100:0077b6&height=200&text=Kibeom's%20GITHUB&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyperflow)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shinkibeoms@naver.com)](https://solved.ac/shinkibeoms@naver.com) 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
