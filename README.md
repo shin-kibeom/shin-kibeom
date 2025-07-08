@@ -35,13 +35,13 @@
     <td align="center">
       <h3>📊 Most Used Languages</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shin-kbeom&layout=donut&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=C6538C&text_color=333333&title_color=DA5B0B&count_private=true&exclude_repo=Face-Transfer-Application" width="300" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shin-kibeom&layout=donut&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=C6538C&text_color=333333&title_color=DA5B0B&count_private=true&exclude_repo=Face-Transfer-Application" width="300" />
       </a>
     </td>
     <td align="center">
       <h3>📈 GitHub Stats</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=shin-kbeom&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=C6538C&text_color=333333&title_color=DA5B0B&count_private=true" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=shin-kibeom&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=C6538C&text_color=333333&title_color=DA5B0B&count_private=true" width="400" />
       </a>
     </td>
   </tr>
