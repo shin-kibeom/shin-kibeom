@@ -1,7 +1,6 @@
 <!-- 헤더 배너 -->
 <!--      ![header](https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,100:0077b6&height=200&text=Kibeom's%20GITHUB&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 -->
-<img width="1909" height="637" alt="Image" src="https://github.com/user-attachments/assets/f0804a59-562d-4815-a267-6b731cf373f1" />
 
 ## 🧑‍💻 About Me
 > “코드는 결국 사람을 위한 것이라고 생각합니다.”  
